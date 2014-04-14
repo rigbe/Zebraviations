@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Trainlist" value="name:id;datatype:int,name:line_id;datatype:int,name:depart_origin_time;datatype:time" />
+	<infoitem key="UD_Linelist" value="name:id;datatype:int,name:name;datatype:string,name:origin_id;datatype:int,name:destination_id;datatype:int" />
+	<infoitem key="UD_traincount" value="name:nxt;datatype:int" />
+</info>

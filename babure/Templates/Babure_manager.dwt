@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+.style1 {
+	color: #990000;
+	font-style: italic;
+}
+.style2 {
+	color: #990000;
+	font-weight: bold;
+	font-size: 18px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="100%" height="467" border="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td width="161" height="23" valign="top"><div align="left"></div></td>
+  <td colspan="2" valign="top"><div align="center" class="style2">Manager page </div></td>
+    <td width="528" valign="top"><div align="right"><a href="../admin//adminlogout.php">Logout</a> </div></td>
+  </tr>
+  <tr>
+    <td height="15" colspan="4" valign="top"><hr color="#993300" style="border-bottom-width:thin"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top"><div align="center">
+      <p><img src="../images/Babure.jpg" alt="Babure banner" width="454" height="42" /></p>
+        <p align="center" class="style1"><strong>Email :</strong> Babure@Babure.com , <strong>Tel:</strong> +251-116185542 </p>
+    </div></td>
+  <td height="39" colspan="2" valign="top"><div align="center"><a href="../index.php">Home</a> &nbsp;&nbsp;&nbsp;<a href="../train_schedule.php">Train schedule</a> &nbsp;&nbsp;&nbsp;<a href="../departures.php">Departures</a> &nbsp;&nbsp;&nbsp; <a href="../arrivals.php">Arrivals &nbsp;</a>&nbsp;&nbsp; </div></td>
+  </tr>
+  <tr>
+    <td width="169" height="44">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="334" colspan="4" valign="top"><!-- TemplateBeginEditable name="Body" -->Body<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="3"></td>
+    <td width="545"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+</body>
+</html>

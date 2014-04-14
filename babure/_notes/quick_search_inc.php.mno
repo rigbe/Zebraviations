@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Getcommon_line" value="name:line_id;datatype:int" />
+	<infoitem key="UD_spec_Schedule" value="name:train_id;datatype:int,name:name;datatype:string,name:departure_time;datatype:time" />
+	<infoitem key="UD_GetstationName" value="name:name;datatype:string" />
+	<infoitem key="UD_GetstationNamefrom" value="name:name;datatype:string" />
+	<infoitem key="UD_GetArrivalstation" value="name:id;datatype:int,name:line_id;datatype:int,name:origin_id;datatype:int,name:destination_id;datatype:int,name:depart_origin_time;datatype:time" />
+	<infoitem key="UD_Getdestination" value="name:name;datatype:string" />
+	<infoitem key="UD_Getduration" value="name:TIMEDIFF(E.departure_time,S.departure_time);datatype:time" />
+</info>

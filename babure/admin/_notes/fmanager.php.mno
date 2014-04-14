@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_ecardvalue" value="name:value;datatype:int" />
+	<infoitem key="UD_accounts" value="name:userid;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Linelist" value="name:id;datatype:int,name:route;datatype:string,name:origin;datatype:string,name:destination;datatype:string" />
+	<infoitem key="UD_stationlist" value="name:id;datatype:int,name:name;datatype:string" />
+</info>
